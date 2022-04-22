@@ -22,7 +22,7 @@ public:
 	string Get_VehicleManufacturer() const;
 	int Get_YearBuilt() const;
 
-	virtual void DisplayInfo();
+	virtual void displayInfo();
 
 };
 #endif

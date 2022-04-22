@@ -32,7 +32,7 @@ int Vehicle_C::Get_YearBuilt() const
 	return yearBuilt;
 }
 
-void Vehicle_C::DisplayInfo()
+void Vehicle_C::displayInfo()
 {
 	cout << "\nVehicle manufacturer " << vehicleManufacturer;
 	cout << "\nYear built " << yearBuilt;
