@@ -11,8 +11,8 @@
 
 int main()
 {
-	cout << "\nHello this is my project...";
-	cout << "\nThis will be the first submit to GitHub";
+	cout << "\nHello this is my project...\n";
+	cout << "\nThis will be the first submit to GitHub\n";
 
 
 
